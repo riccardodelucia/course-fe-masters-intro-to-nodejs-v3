@@ -1,4 +1,4 @@
-# Course: Introduction to Node.js, v3
+# Course: FrontEnd Masters - Introduction to Node.js, v3
 
 This project contains the code related to the following [course](https://frontendmasters.com/courses/node-js-v3/).
 
